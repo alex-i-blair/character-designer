@@ -57,6 +57,10 @@ header img {
     height: var(--header-height);
 }
 
+.bg img {
+    width: 180px;
+}
+
 p {
     margin: var(--gutter);
 }
